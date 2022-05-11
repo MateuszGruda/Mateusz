@@ -1,1 +1,13 @@
-
+body{
+  background-color:linen;
+}
+h1{
+  color:black;
+  font-size:10vw;
+  font-family:arial;
+}
+p{
+  color:darkblue;
+  font-size:5vw;
+  font-family:arial;
+}
