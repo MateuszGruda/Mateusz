@@ -1,13 +1,28 @@
 body{
-  background-color:linen;
+  background-color:yellow;
+  margin-left: 25vw; margin-right: 25vw;  
+    
 }
-h1{
+h2{
   color:black;
-  font-size:10vw;
+  font-size:1,5vw;
   font-family:arial;
+  font-weight:bold;
 }
 p{
-  color:darkblue;
-  font-size:5vw;
+  color:dimgrey;
+  font-size:1vw;
   font-family:arial;
 }
+#index, #Ziola, #Galeria{
+    background-color:palegreen;
+    width:7vw;
+    height:1,7vw;
+}
+header{
+    color:darkgreen;
+    font-size:2vw;
+    font-family:fantasy ;
+}
+
+
