@@ -1,5 +1,5 @@
 body{
-  background--image: url('tło.jpg');
+  background-image: url('tło.jpg');
   margin-left: 25vw; margin-right: 25vw;  
     
 }
@@ -15,7 +15,7 @@ p{
   font-family:arial;
 }
 #index, #Ziola, #Galeria{
-    background-color:palegreen;
+    background-image:url('tło_menu.jpg');
     width:7vw;
     height:1,7vw;
 }
@@ -24,5 +24,8 @@ header{
     font-size:2vw;
     font-family:fantasy ;
 }
-
+iframe{
+  width=40vw;
+  height=auto;
+}
 
