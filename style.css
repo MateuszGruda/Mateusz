@@ -30,4 +30,8 @@ iframe{
 }
 MARQUEE{
    DIRECTION=RIGHT;
+}
+footer{
+  position:bottom;
+}
 
