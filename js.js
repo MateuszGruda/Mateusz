@@ -1,4 +1,5 @@
 var buttons = document.getElementsByClassName("button");
+var p_stosowanie = document.getElementsByClassName("stosowanie");
 var i;
 
 console.log(buttons);
@@ -28,4 +29,5 @@ function clk() {
 
 for (i = 0; i < buttons.length; i += 1) {
     buttons[i].addEventListener("click", clk);
+    p_stosowanie[i].style.display = "none";
 }
