@@ -20,11 +20,10 @@ p{
     border:solid;
 }
 
-
-
 #link{
-   color:white;
-}
+    color:darkblue;
+} 
+
 
 header{
     color:green;
@@ -51,9 +50,4 @@ img{
 }
 h3{ 
   font-family:arial;
-}
-margin-left{
-  <center><div id="index"> <a class="active"><p id="link">Strona główna</p></a></div>
-                <div id="Ziola"><a href="ziola.html"><p id="link">Zioła</p></a></div>
-                <button id="Galeria"><a href="galeria.html"><p id="link">Galeria</p></a></button></center>
 }
